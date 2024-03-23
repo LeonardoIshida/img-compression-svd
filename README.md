@@ -8,7 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-## Contributor
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,6 +26,8 @@
 
 In this project we had to use some linear algebra concepts and apply them in some project involving programming. Me and my friend decided to use SVD decomposition to reduce the file size of an image, but not only that we also found the best truncation of the image possible and compared the storage alocation necessary for different image rotations
 
+## Contributor
+https://github.com/joaophamata
 
 ### Built With
 <div>
