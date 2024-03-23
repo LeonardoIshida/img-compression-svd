@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
+## Contributor
 
 <!-- PROJECT LOGO -->
 <br />
