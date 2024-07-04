@@ -35,6 +35,6 @@ https://github.com/joaophamata
 </div>
 
 
-## 📖 References
+### 📖 References
 - Brunton; Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control
 - Gavish; Donoho. The Optimal Hard Threshold for Singular Values is 4/√3
