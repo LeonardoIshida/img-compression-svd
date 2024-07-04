@@ -22,14 +22,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+## About The Project
 
 In this project we had to use some linear algebra concepts and apply them in some project involving programming. Me and my friend decided to use SVD decomposition to reduce the file size of an image, but not only that, we also found the best truncation of the image possible and compared the storage alocation necessary for different image rotations.
 
-## 🤝 Contributor
+### 🤝 Contributor
 https://github.com/joaophamata
 
-## ⚙️ Built With
+### Built With
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 </div>
